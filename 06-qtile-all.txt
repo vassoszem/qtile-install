@@ -18,7 +18,6 @@ eza
 firewalld
 fzf
 git
-gsimplecal
 inxi
 luarocks
 man-db
