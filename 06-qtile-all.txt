@@ -37,4 +37,5 @@ zsh
 gnome-disk-utility
 ristretto
 floorp-bin
+lxappearance-gtk3
 ttf-jetbrains-mono-nerd

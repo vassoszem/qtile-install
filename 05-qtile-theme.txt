@@ -1,1 +1,2 @@
+lxappearance-gtk3
 ttf-jetbrains-mono-nerd
