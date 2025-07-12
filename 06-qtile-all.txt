@@ -37,5 +37,6 @@ zsh
 gnome-disk-utility
 ristretto
 floorp-bin
+gtk-engine-murrine
 lxappearance-gtk3
 ttf-jetbrains-mono-nerd
