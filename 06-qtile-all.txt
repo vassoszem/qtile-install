@@ -21,6 +21,7 @@ git
 inxi
 luarocks
 npm
+numlockx
 nvidia-settings
 nvidia-utils
 pacman-contrib
@@ -31,6 +32,7 @@ rofi
 starship
 stow
 xclip
+xdg-utils
 zsh
 gnome-disk-utility
 ristretto
