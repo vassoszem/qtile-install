@@ -20,6 +20,8 @@ fzf
 git
 inxi
 luarocks
+man-db
+man-pages
 npm
 numlockx
 nvidia-settings
