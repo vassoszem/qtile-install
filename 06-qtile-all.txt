@@ -14,6 +14,7 @@ tumbler
 xarchiver
 xdg-user-dirs
 alsa-utils
+ddcutil
 eza
 firewalld
 fzf
