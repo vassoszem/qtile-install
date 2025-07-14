@@ -1,2 +1,9 @@
+darktable
+displaycal
+galculator
 gnome-disk-utility
+gpick
+libreoffice-fresh
+neovim
+parole
 ristretto
