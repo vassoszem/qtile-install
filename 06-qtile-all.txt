@@ -17,6 +17,7 @@ alsa-utils
 brightnessctl
 calcurse
 ddcutil
+dunst
 eza
 fastfetch
 firewalld
