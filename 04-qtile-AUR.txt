@@ -1,3 +1,4 @@
+brave-bin
 ddcci-driver-linux-dkms-git
 dropbox
 floorp-bin
