@@ -1,4 +1,5 @@
 ddcci-driver-linux-dkms-git
+dropbox
 floorp-bin
 timeshift-autosnap
 transmission-gtk3
