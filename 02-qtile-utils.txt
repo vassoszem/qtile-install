@@ -11,6 +11,7 @@ git
 gst-libav
 inxi
 lazygit
+libappindicator-gtk3
 luarocks
 man-db
 man-pages
@@ -25,6 +26,7 @@ picom
 polkit-gnome
 ripgrep
 rofi
+snixembed
 starship
 stow
 timeshift
