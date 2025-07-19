@@ -9,6 +9,7 @@ firewalld
 fzf
 git
 gst-libav
+imagemagick
 inxi
 lazygit
 libappindicator-gtk3
